@@ -1,4 +1,4 @@
-# 100-board-quiz 
+# 100-board-quiz game
 
 A new Flutter project.
 
